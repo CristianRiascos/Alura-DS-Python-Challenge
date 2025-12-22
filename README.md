@@ -9,7 +9,7 @@
 - [Acceso al proyecto](#acceso-al-proyecto)
 - [Tecnologías usadas](#tecnologías-usadas)
 
-- ## Descripción
+## Descripción
 Mini proyecto de Ciencia de Datos básico para mejorar habilidades relacionadas a uso de la librería Pandas y análisis de datos. Consiste en analizar el desempeño de 4 tiendas para determinar cuál debe venderse.
 
 ## Estado del proyecto
